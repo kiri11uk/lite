@@ -1,6 +1,7 @@
 CACHE MANIFEST
 
 cache.appcache
+pako.min.js
 L2.js
 appcache_handler.js 
 custom_host_stuff.js 
@@ -29,5 +30,5 @@ mem.js
 rw.js
 utils.js
 constants.js
-payloads/etaHEN-1.7B.bin
+payloads/etaHEN-1.6B.bin.gz
 README.md
