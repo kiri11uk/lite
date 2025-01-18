@@ -1,5 +1,5 @@
 CACHE MANIFEST
-
+payloads/etaHEN-20B.bin.gz
 cache.appcache
 pako.min.js
 L2.js
@@ -28,5 +28,5 @@ mem.js
 rw.js
 utils.js
 constants.js
-payloads/etaHEN-1.8B.bin.gz
+etaHEN-1.8B.bin.gz
 README.md
