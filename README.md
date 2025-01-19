@@ -1,4 +1,4 @@
-PS5 HOST LITE JAILBREAK 4.03 4.50 4.51 AUTO etaHEN (not PSFREE)
+PS5 HOST LITE JAILBREAK 3.xx- 4.03 4.50 4.51 AUTO etaHEN 2.0b (not PSFREE)
 
 https://ps5xploit.github.io/lite/
 
