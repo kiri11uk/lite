@@ -61,7 +61,7 @@ function create_payload_buttons() {
 
 }
 
-function showToast(message) {
+function showToast(message, duration = 2000) { // 2000 es el valor predeterminado
     const toastContainer = document.getElementById('toast-container');
     const toast = document.createElement('div');
     toast.className = 'toast';
@@ -79,5 +79,6 @@ function showToast(message) {
         toast.addEventListener('transitionend', () => {
             toast.remove();
         });
-    }, 2000);
+    }, duration); // Duración ajustable
 }
+
