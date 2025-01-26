@@ -32,11 +32,11 @@ function add_cache_event_toasts() {
     var appCache = window.applicationCache;
     
     if (!navigator.onLine) {
-        showToast('Off-line wait...');
+        showToast('★ Off-line wait...');
     }
 
     appCache.addEventListener('cached', function (e) {
-        showToast('Finished caching site');
+        showToast('★ Finished caching site');
     }, false);
 
     // appCache.addEventListener('checking', function (e) {
@@ -44,7 +44,7 @@ function add_cache_event_toasts() {
     // }, false);
 
     appCache.addEventListener('downloading', function (e) {
-        showToast('Downloading cache');
+        showToast('★ Downloading cache...');
     }, false);
 
     appCache.addEventListener('error', function (e) {
@@ -55,7 +55,7 @@ function add_cache_event_toasts() {
     }, false);
 
     appCache.addEventListener('noupdate', function (e) {
-        showToast('Cache is up');
+        showToast('★ Cache is up');
     }, false);
 
     appCache.addEventListener('obsolete', function (e) {
