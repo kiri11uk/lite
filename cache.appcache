@@ -28,7 +28,7 @@ rop_slave.js
 rw.js 
 utils.js 
 webkit.js 
-payloads\etaHEN-20B.bin.gz 
+payloads\etaHEN-20B.bin
  
 NETWORK: 
 * 
