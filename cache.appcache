@@ -28,7 +28,6 @@ rop_slave.js
 rw.js 
 utils.js 
 webkit.js 
-payloads\1-ps5debug_10b2.elf
 payloads\etaHEN-20B.bin
 
 NETWORK: 
