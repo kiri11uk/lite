@@ -1,12 +1,14 @@
 const payload_map = [
-    {
-        displayTitle: 'ps5-debug',
-        description: 'ps5-debug ',
-        fileName: '1-ps5debug_10b2.elf',
-        author: 'goldhen',
-        source: 'n',
-        version: '1.02'
+   {
+        displayTitle: 'Hello-XPLOIT',
+        description: 'Hello-XPLOITr ',
+        fileName: 'hello_world.elf',
+        author: 'm0ur0ne',
+        source: 'ps5xploit',
+        version: '1.00'
     },
+
+ 
     {
         displayTitle: 'etaHEN',
         description: 'FPKG enabler ',
@@ -15,5 +17,21 @@ const payload_map = [
         source: 'https://github.com/LightningMods/etaHEN',
         version: '1.8 beta'
     },
-    // Otros payloads si es necesario
+{
+        displayTitle: 'ps5-debug',
+        description: 'ps5-debug ',
+        fileName: '1-ps5debug_10b2.elf',
+        author: 'goldhen',
+        source: 'n',
+        version: '1.02'
+    },
+    // Otros payloads que no cargaran auto.
+{
+        displayTitle: 'elfldr',
+        description: 'elfldr ',
+        fileName: 'elfldr.elf',
+        author: 'john',
+        source: 'n',
+        version: '1.00'
+    },
 ];
