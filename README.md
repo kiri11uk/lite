@@ -8,3 +8,6 @@ PKG: https://www.mediafire.com/file/08unc7417u0lazc/PS5-HOST-LITE-OFFLINE.pkg/fi
 
 offline cache / MEDIA
 https://www.mediafire.com/file/2yxgg1o687r6wwo/mPS5-HOST-LITE-OFFLINE.pkg/file
+
+
+EXPLOIT IPV6
