@@ -1,12 +1,5 @@
 const payload_map = [
-    {
-        displayTitle: 'ps5-debug',
-        description: 'ps5-debug ',
-        fileName: '1-ps5debug_10b2.elf',
-        author: 'goldhen',
-        source: 'n',
-        version: '1.02'
-    },
+   
     {
         displayTitle: 'etaHEN',
         description: 'FPKG enabler ',
